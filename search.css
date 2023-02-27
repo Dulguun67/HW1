@@ -1,0 +1,23 @@
+body{ 
+background-color: greenyellow;
+}
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+color: red; 
+    margin: 0.4rem 0; 
+
+} 
+h2 {
+  color:yellow  ;
+  font-family: Times New Roman;
+  font-size: 45px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+} 

@@ -1,0 +1,14 @@
+body { 
+ background-color: #B4E1FA;
+  background-image: url("logo.png");
+}
+
+  h1{ 
+  color: black ;
+  font-size: 60px ;
+  font-family:Times New Roman ;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  }
